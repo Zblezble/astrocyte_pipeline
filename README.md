@@ -20,6 +20,8 @@ This repository contains the full preprocessing and quantification workflow, org
 - **05_multiqc.sh** – Aggregated QC reporting
 - **06_salmon.sh** – Transcript quantification with Salmon
 - **07_tximport_limma.R** – Import to R (tximport), normalization, and differential expression using limma
+- LICENSE – Licensing information
+- README.md – This file
 
 ---
 
